@@ -5,7 +5,7 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 3
       },
       "nodes": [
         {
@@ -23,12 +23,65 @@
         },
         {
           "location": {
-            "x": 284,
-            "y": 50
+            "x": 379,
+            "y": 244
           },
           "nodeIndex": "Calendar",
+          "nodeLineageTag": "d7311d2e-9558-4816-a9f8-b409dbdc904a",
           "size": {
-            "height": 200,
+            "height": 499,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 332
+          },
+          "nodeIndex": "New Measures",
+          "nodeLineageTag": "bc531e0f-b3d7-4076-9d32-1b08fdd2b1f6",
+          "size": {
+            "height": 388,
+            "width": 280
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 384,
+            "y": 0
+          },
+          "nodeIndex": "customer",
+          "nodeLineageTag": "622111fe-297b-4ace-a11d-25d0879705fb",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 675,
+            "y": 0
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "5427cc6e-a83d-40da-a967-3fd54ea33c6b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 694,
+            "y": 237.5
+          },
+          "nodeIndex": "Invoice Data",
+          "nodeLineageTag": "669e4570-5caa-458e-82c7-2fa72141f188",
+          "size": {
+            "height": 300,
             "width": 234
           },
           "zIndex": 0
